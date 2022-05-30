@@ -1,4 +1,4 @@
-# Profitable App Recommendation
+# Recommendation for Profitable App Development
 
 This project looks into the IOS and Google Play store to analyze which genre shows potential to be a profitable market.
 
