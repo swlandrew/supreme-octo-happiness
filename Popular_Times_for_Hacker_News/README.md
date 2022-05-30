@@ -12,3 +12,4 @@ For each Ask HN post, we categorized by the hour of when
 * the posts were created
 * comments were made
 
+By doing so, we are able to find popular hours for Ask HN.
