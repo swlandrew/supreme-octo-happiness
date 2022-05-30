@@ -13,5 +13,5 @@ This project looks into the IOS and Google Play store to analyze which genre sho
 ## Analyzing the Cleaned Dataset
 
 The process of analyzing our datasets was to find:
-* A niche market that is not dominated by a small number of competitors 
+* A niche market that is not dominated by a small number of big competitors 
 * High user rate using "average installs" (for Google Play store) and "average number ratings" (for IOS)
