@@ -10,7 +10,7 @@ This project looks into the IOS and Google Play store to analyze which genre sho
 
 3. Since our project is to find a "profitable app", we only took into consideration non-free apps.
 
-## Analyzing the Remaining Dataset
+## Analyzing the Cleaned Dataset
 
 The process of analyzing our datasets was to find:
 * A niche market that is not dominated by a small number of competitors 
